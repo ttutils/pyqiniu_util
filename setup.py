@@ -11,7 +11,7 @@ with io.open("requirements.txt", 'r') as f:
 
 setup(
     name='pyqiniu_util',
-    version='1.0.0',
+    version='v1.0.1',
     description='七牛云助手',
     author='buyfakett',
     author_email='buyfakett@vip.qq.com',
